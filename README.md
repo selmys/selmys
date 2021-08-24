@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @selmys
 - 👀 I’m interested in Linux, robotics and raspberry <s>pie</s> pi
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently studying machine learning
 - .. and teaching part time at Seneca College in Toronto
 
 <!---
