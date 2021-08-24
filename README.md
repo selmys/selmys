@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @selmys
+- 👋 Hi, I’m John Selmys
 - 👀 I’m interested in Linux, robotics and raspberry <s>pie</s> pi
 - 🌱 I’m currently studying machine learning
 - .. and teaching part time at Seneca College in Toronto
