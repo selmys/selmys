@@ -1,7 +1,7 @@
 - 👋 Hi, I’m John Selmys
 - 👀 I’m interested in Linux, robotics and raspberry <s>pie</s> pi
 - 🌱 I self-studied machine learning - just enough to remove the mystery
-- .. I'm no longer teaching at Seneca College in Toronto
+- .. I'm no longer teaching (retired for good) at Seneca College in Toronto
 - .. Now in 2023 I'm taking an on-line course in Python ... have to keep learning
 
 <!---
